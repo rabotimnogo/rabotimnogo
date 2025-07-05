@@ -16,3 +16,6 @@
 | **Визуализация**| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-0C7BDC?style=for-the-badge) |
 | **MLOps**       | ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Оптимизация** | ![Optuna](https://img.shields.io/badge/Optuna-00AAEE?style=for-the-badge) ![imbalanced-learn](https://img.shields.io/badge/imblearn-EE7700?style=for-the-badge) |
+
+### 📂 GitHub Projects:
+[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=rabotimnogo&repo=Fraud_Detection&theme=dark&show_owner=true)](https://github.com/rabotimnogo/Fraud_Detection)
