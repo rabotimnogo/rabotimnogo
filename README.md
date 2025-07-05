@@ -19,3 +19,4 @@
 
 ### 📂 GitHub Projects:
 [![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=rabotimnogo&repo=Fraud_Detection&theme=dark&show_owner=true)](https://github.com/rabotimnogo/Fraud_Detection)
+[![Math Solutions](https://github-readme-stats.vercel.app/api/pin/?username=rabotimnogo&repo=Math_Solutions&theme=dark&show_owner=true&branch=Fourier_sum_series)](https://github.com/rabotimnogo/Math_Solutions/tree/Fourier_sum_series)
